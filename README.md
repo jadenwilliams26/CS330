@@ -1,1 +1,10 @@
 # CS330 <br /><br />
+When designing software, I focus on planning out the structure and identifying the key components needed to bring the idea to life. For this project, where I created a simple OpenGL scene showing my monitor on my desk, I worked on visualizing the scene clearly before writing any code. This project helped me sharpen my 3D modeling and spatial design skills, teaching me to think more carefully about perspective, scale, and object placement.
+
+The design process I followed started with basic sketches and planning out object relationships before moving into OpenGL coding. I prioritized building simple shapes first, then layering in details as the project progressed. This approach made it easier to stay organized and make adjustments along the way. Tactics like early visualization, modular building, and progressive refinement will definitely be useful in future projects to keep work focused and manageable.
+
+When developing programs, I usually break problems down into smaller tasks, focus on building a working base, and then expand features gradually. For this 3D scene, I adopted new strategies like using transformations more deliberately and carefully managing the scene’s coordinate space. Iteration played a major role; with each milestone, I added complexity and corrected issues, improving the overall polish and accuracy of the scene.
+
+Throughout the milestones, my development approach evolved to be more detail-oriented and proactive about debugging small issues early, rather than letting them pile up. This smoother, step-by-step method led to a better final product.
+
+Computer science helps me reach my goals by giving me the skills to build creative and technical solutions, whether in graphics, app development, or broader fields. Computational graphics and visualizations have opened up new skills like spatial reasoning, precision modeling, and visual communication, which will help in both future coursework and professional work — especially in fields like game development, simulation, and user interface design.
